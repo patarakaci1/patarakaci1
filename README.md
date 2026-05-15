@@ -1,6 +1,6 @@
 <div align="center">
 
-# [lasha]
+# { Lasha }
 
 Front-end developer in the making · Learning in public · Building real things
 
